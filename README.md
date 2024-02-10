@@ -4,8 +4,8 @@ I'm Hasan Farras Alghifari from Indonesia and I really enjoy to learn web develo
 ### Skills and Experience
 * 💾 PHP
 * 💻 HTML / CSS / JS
-  
-- ⚡ Fun fact: Just a student who love learning to code 
+
+Just a student who love learning to code 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://github.com/nearbyhanky3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nearby_hanky3/?hl=en)  
